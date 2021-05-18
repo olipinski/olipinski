@@ -1,6 +1,6 @@
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=olipinski&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olipinski)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=olipinski&count_private=true&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olipinski&theme=dark)
 
 <!--
 **olipinski/olipinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
